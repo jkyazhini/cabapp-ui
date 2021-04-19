@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+       <header>OLA CAB </header><br>
+<main>
+
+       <label for="name">Enter your Name : </label>
+       <input type="text" name="name"id="Name" placeholder="Name"size="20"required><br> <br>
+       <label for="name">Enter Your Age : </label>
+       <input type="number" name="name"id="Age" placeholder="Age"size="2" required><br> <br>
+       <label for="name">Mobile No :</label>
+       <input type="number" name="name" id="No"placeholder="Numbers"size="10"required> <br><br> 
+       <label for="name">Enter Your Languages :</label>
+       <input type="text" name="name" id="L" placeholder="Languages" required><br><br>
+       <input type="checkbox" name="seniorcitizen" id="senior" value="y"> senior citizen <br> <br>
+       <label>Gender</label><br><br>
+       <input type="radio" name="gender"id="M" value="M"> Male<br><br>
+       <input type="radio" name="gender"id="F" value="F"> Female<br><br>
+        
+        <h4>INSTRUCTIONS</h4>
+ <nav>
+ <ul>
+     <li> Must Wear The Mask</li>
+     <li> Should Not Eat in The Cab</li>
+ </ul>  
+ </nav>   <br><br>
+ 
+ <section>1.New selections</section>
+ <section>2.Categories</section>
+ </main>
+       <footer> Registration 2000-2030</footer>
+
+</body>
+</html>
