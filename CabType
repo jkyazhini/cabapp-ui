@@ -4,17 +4,18 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<center>
+
 	<body>
+	<center>
 		<h1>CAR TYPES</h1>
 		<table border="3">
-			<thead>
+			
 				<tr>
 					<th>S.NO</th>
 					<th>Type</th>
 					<th>Price Per Km</th>
 				</tr>
-			</thead>
+			
 			<tbody>
 				<tr>
 					<td>1.</td>
@@ -33,10 +34,10 @@
 				</tr>
 			</tbody>
 </table>
-
+</center
 
 </body>
 
 <button formaction="Bill.html">NEXT</button>
-</center>
+
 </html>
