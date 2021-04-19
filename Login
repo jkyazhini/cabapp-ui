@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<center>
+<h8>LOGIN PAGE</h8>
+<br><br>
+<form action=CabTypes.html>
+      <label for="name">Mobile No :</label>
+      <input type="number" name="name" placeholder="Numbers"required> <br><br> 
+      <label for="name">Password :</label>
+      <input type="password" name="passcode" placeholder="AnyType"required> <br><br>
+<br><br>
+      
 
+<button>SUBMIT</button>
+</form>
+
+
+</center>
+
+</body>
+</html> 
