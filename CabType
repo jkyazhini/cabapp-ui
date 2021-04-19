@@ -36,7 +36,7 @@
 		</table>
 
 </body>
-<a href=Bill.html >LOGIN</a>
+<button formaction="Bill.html"> NEXT</button>
 </html>
 		</table>
 
