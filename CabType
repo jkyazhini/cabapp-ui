@@ -6,7 +6,7 @@
 </head>
 <center>
 	<body>
-	
+	<form>
 		<h1>CAR TYPES</h1>
 		<table border="3">
 			<thead>
@@ -35,9 +35,9 @@
 			</tbody>
            </table>
 
-
-</body>
+</form>
 
 <button formaction="Bill.html">NEXT</button>
+</body>
 
 </html>
