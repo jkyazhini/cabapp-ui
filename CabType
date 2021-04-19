@@ -6,7 +6,7 @@
 </head>
 <center>
 	<body>
-		<h1>Cab Types</h1>
+		<h1>CAR TYPES</h1>
 		<table border="3">
 			<thead>
 				<tr>
@@ -33,6 +33,11 @@
 				</tr>
 			</tbody>
 			</center>
+		</table>
+
+</body>
+<a href=Bill.html >LOGIN</a>
+</html>
 		</table>
 
 
