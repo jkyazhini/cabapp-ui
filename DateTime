@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<center>
+<label>Journey Date</label>
+<input type="date"name="Journey" placeholder="Journey Date" required>
+<br><br>
+<label>Journey Time</label>
+<input type ="time" name="Journey" placeholder="Journey Date"  required>
+<br> <br>
+</center>
+</form>
+</body>
+</html>
