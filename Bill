@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<center>
+<h3>Task 3: Tab</h3>
 
+<label> Select Cab Type :</label>
+
+<select name="Cab Type" >
+      <option value="MICRO">MICRO </option>
+      <option value="MINI">MINI </option>
+      <option value="PRIME">PRIME</option>
+      </select>
+<br> <br>
+<label for="name">No Of Km : </label>
+<input type="number" name="name" placeholders="numbers" required>
+
+
+</body>
+<br><br>
+<button  formaction=CabTypes.html> SUBMIT </button>
+</center>
+</table>
+</html>
