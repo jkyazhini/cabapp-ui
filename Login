@@ -4,8 +4,9 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<center>
+
 <body>
+<center>
 </h8>LOGIN PAGE<h8/>
 <br><br>
 <form>
