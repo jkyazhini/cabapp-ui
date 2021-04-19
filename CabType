@@ -32,9 +32,11 @@
 					<td>Rs.20 per km</td>
 				</tr>
 			</tbody>
-			</center>
-		</table>
+</table>
+
 
 </body>
-<button formaction="Bill.html"> NEXT</button>
+
+<button formaction="Bill.html">NEXT</button>
+</center>
 </html>
