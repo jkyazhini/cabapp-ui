@@ -6,15 +6,17 @@
 </head>
 
 	<body>
+	<form>
 	<center>
 		<h1>CAR TYPES</h1>
 		<table border="3">
-			
+			<thead>
 				<tr>
 					<th>S.NO</th>
 					<th>Type</th>
 					<th>Price Per Km</th>
 				</tr>
+				</thead>
 			
 			<tbody>
 				<tr>
@@ -34,10 +36,11 @@
 				</tr>
 			</tbody>
 </table>
-</center
+</center>
+</form>
 
 </body>
 
-<button formaction="Bill.html">NEXT</button>
+<button formaction="Bill.html"> NEXT </button>
 
 </html>
